@@ -1,0 +1,59 @@
+[33mcommit e41c8bb8d415856fe26df4c3987247c9427f3eef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mheroku/master[m[33m)[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Wed Jun 20 00:32:25 2018 +0000
+
+    Procfile
+
+[33mcommit 36972ba7dee30dedc947747458b88281e0667e90[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Tue Jun 19 06:46:25 2018 +0000
+
+    timeline
+
+[33mcommit 852aafd348611adafdcc699855ca7c8d0c3271f4[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Tue Jun 19 05:07:23 2018 +0000
+
+    follow, unfollow
+
+[33mcommit 80a1a92365f298fdb099f3c2b7b4fed9264ccbe4[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Fri Jun 15 03:04:54 2018 +0000
+
+    post
+
+[33mcommit 27cdd358896e61efe3295ae469411633240d1a3e[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Wed Jun 13 04:56:21 2018 +0000
+
+    user pages
+
+[33mcommit 736fcd61b201a04910fd68782f87c492bff500de[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Tue Jun 12 05:02:14 2018 +0000
+
+    user login
+
+[33mcommit 555212fc8c42c7b5ef74d7878252a864640f8c66[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Tue Jun 12 03:42:33 2018 +0000
+
+    user registration
+
+[33mcommit 2ba54cb7dd83625dd91680e56893fbc760d765fc[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Mon Jun 11 03:58:05 2018 +0000
+
+    top page
+
+[33mcommit 6543415324b20bb407eeef77d51d13a23d7a4148[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Mon Jun 11 03:51:01 2018 +0000
+
+    set timezone
+
+[33mcommit c1dde859e167924f477e438f75760435e8f8930f[m
+Author: hiromi.masuda <hiromi.c.masuda@rakuten.com>
+Date:   Mon Jun 11 03:49:06 2018 +0000
+
+    init
